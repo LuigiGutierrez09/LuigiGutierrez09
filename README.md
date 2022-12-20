@@ -71,7 +71,7 @@ I am a human who likes to learn things and makes his imagination fly when progra
 <h1 align="center"> Lenguajes/Frameworks que Domino  || Languages/Frameworks that I am fluent in</h1>
 <p align="center">
  <code><a href="https://www.java.com/en/"><img alt="Java" title="Java" src="./assets/java.png" height="35"></a></code>
-  <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="35"></a></code>
+  <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="35"></a><code>
   <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="./assets/Bootstrap_logo.png" height="35"></a></code>
   <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="35"></a></code>
   <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="./assets/actions.png" height="35"></a></code>
@@ -86,15 +86,15 @@ I am a human who likes to learn things and makes his imagination fly when progra
 <p align="center">
 
   <code><a href="https://reactjs.org/"><img alt="ReactJS" title="ReactJS" src="./assets/react.png" height="42"></a></code>
-  <code><a href="https://laravel.com/"><img alt="Laravel" title="Laravel" src="./assets/laravel.png" height="42"></a></code>
-  <code><a href="https://spring.io/"><img alt="Spring" title="Spring" src="./assets/spring-logo.png" height="42"></a></code>
+  <code><a href="https://laravel.com/"><img alt="Laravel" title="Laravel" src="./assets/laravel.png" height="42"></a><code>
+  <code><a href="https://spring.io/"><img alt="Spring" title="Spring" src="./assets/spring-logo.png" height="42"></a><code>
  
 </p>
 <br>
 
 <h1 align="center"> Entornos con los que trabajo || Environments I work with </h1>
 <p align="center">
- <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42"></a></code>
+ <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42"><a></code>
   <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a></code>
  
 </p>
