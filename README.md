@@ -93,7 +93,7 @@ I am a human who likes to learn things and makes his imagination fly when progra
 <h1 align="center"> Entornos con los que trabajo || Environments I work with </h1>
 <p align="center">
   <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a></code>
-  <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42" style="background:white"></a></code>
+  <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42" style="background-color: white"></a></code>
 </p>
 <br>
 
