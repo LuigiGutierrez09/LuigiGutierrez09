@@ -84,7 +84,7 @@ I am a human who likes to learn things and makes his imagination fly when progra
 
 <h1 align="center"> 📘 Lenguajes/Frameworks que estoy Aprendiendo || Languages/Frameworks I'm Learning </h1>
 <p align="center">
-  <code><a href="https://www.archlinux.org/"><img alt="Arch Linux" title="Arch Linux" src="./assets/arch.png" height="42"></a></code>
+  <code><a href="https://reactjs.org/"><img alt="ReactJS" title="ReactJS" src="./assets/react.png" height="42"></a></code>
   <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a></code>
   <code><a href="https://www.npmjs.com"><img alt="NPM" title="NPM" src="./assets/npm.png" height="42"></a></code>
   <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42"></a></code>
