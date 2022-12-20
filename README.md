@@ -88,7 +88,12 @@ I am a human who likes to learn things and makes his imagination fly when progra
   <code><a href="https://reactjs.org/"><img alt="ReactJS" title="ReactJS" src="./assets/react.png" height="42"></a></code>
   <code><a href="https://laravel.com/"><img alt="Laravel" title="Laravel" src="./assets/laravel.png" height="42"></a><code>
   <code><a href="https://spring.io/"><img alt="Spring" title="Spring" src="./assets/spring-logo.png" height="42"></a><code>
- 
+   <code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./assets/Django-Logo.png" height="42"></a></code>
+  <code><a href="https://docs.nestjs.com/"><img alt="NestJS" title="NestJS" src="./assets/NestJS.png" height="42"></a></code>
+  <code><a href="https://reactjs.org/"><img alt="ReactJS" title="ReactJS" src="./assets/react.png" height="42"></a></code>
+  <code><a href="https://laravel.com/"><img alt="Laravel" title="Laravel" src="./assets/laravel.png" height="42"></a></code>
+  <code><a href="https://spring.io/"><img alt="Spring" title="Spring" src="./assets/spring-logo.png" height="42"></a></code>
+  <code><a href="https://www.java.com/en/"><img alt="Java" title="Java" src="./assets/java.png" height="42"></a></code>
 </p>
 <br>
 
