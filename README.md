@@ -86,7 +86,6 @@ I am a human who likes to learn things and makes his imagination fly when progra
 <p align="center">
   <code><a href="https://reactjs.org/"><img alt="ReactJS" title="ReactJS" src="./assets/react.png" height="42"></a></code>
   <code><a href="https://laravel.com/"><img alt="Laravel" title="Laravel" src="./assets/laravel.png" height="42"></a><code>
-
 </p>
 <br>
 
