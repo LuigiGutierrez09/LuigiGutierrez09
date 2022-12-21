@@ -60,7 +60,7 @@ I am a human who likes to learn things and makes his imagination fly when progra
         </li>
     </td>
     <td style="border: none;">
-      <img align="right" alt="GIF" src="./assets/Gif2.gif" width="450vw"/>
+      <img align="right" alt="GIF" src="./assets/GifNL.gif" width="700vw"/>
     </td>
   </tr>
 </table>
