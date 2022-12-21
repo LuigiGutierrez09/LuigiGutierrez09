@@ -56,7 +56,7 @@ I am a human who likes to learn things and makes his imagination fly when progra
           💪 Cuando estoy libre, me gusta hacer deporte 
         </li>
         <li>
-          📝 Puedes visitar mi pagina (https://www.davidsdvm.com/) 
+          📝 Puedes visitar mi pagina (#) 
         </li>
     </td>
     <td style="border: none;">
