@@ -1,5 +1,5 @@
 
-<a href="https://github.com/LuigiGutierrez09">![LuigiGutierrez09 Profile GIF](.assets/gif_luigi.gif)</a>
+<a href="https://github.com/LuigiGutierrez09">![LuigiGutierrez09 Profile GIF](./assets/gif_luigi.gif)</a>
 
 <!-- Social icons section -->
 <h1 align="center"> Social Media: </h1>
